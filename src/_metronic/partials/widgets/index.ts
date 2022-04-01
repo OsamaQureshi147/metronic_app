@@ -47,6 +47,7 @@ export * from './charts/ChartsWidget7'
 export * from './charts/ChartsWidget8'
 
 // tables
+export * from './tables/CampaignStatsTable'
 export * from './tables/TablesWidget1'
 export * from './tables/TablesWidget2'
 export * from './tables/TablesWidget3'
