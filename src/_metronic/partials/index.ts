@@ -19,6 +19,7 @@ export * from './content/dropdown/Dropdown2'
 
 // editors
 export * from './content/editor/EditorToolbar'
+export * from './content'
 
 // fallback-view
 export * from './content/fallback-view/FallbackView'
